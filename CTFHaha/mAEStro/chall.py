@@ -1,6 +1,5 @@
 from Crypto.Cipher import AES
 from os import urandom
-from secret import FLAG
 import sys
 
 key = IV = urandom(16)

@@ -17,9 +17,6 @@ int main(int argc, char const *argv[])
 
 	fgets(buf, 20, stdin);
 	printf(buf);
-	printf("Address of 'c' %pn",&buf);
-	printf("This is the location of the hack_me varible: %lp\n", hack_me);
-	printf("This is the hack_me varible: %lp\n", *hack_me);
 	
 	if(*hack_me == 420)
 		system("cat flag.txt");
