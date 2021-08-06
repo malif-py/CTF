@@ -1,6 +1,7 @@
 # picoCTF
 Challenge-challenge dari soal training [picoGym](https://play.picoctf.org/practice)
 ## Kategori
+Last Updated: Aug 6 2021
 ### Binary Exploitation
  - [Stonks](https://github.com/malif-py/CTF/tree/main/picoCTF/005%20Stonks)
 ### Cryptography
@@ -8,6 +9,7 @@ Challenge-challenge dari soal training [picoGym](https://play.picoctf.org/practi
  - [Easy Peasy](https://github.com/malif-py/CTF/tree/main/picoCTF/013%20Easy%20Peasy)
  - [The Numbers](https://github.com/malif-py/CTF/tree/main/picoCTF/017%20The%20Numbers)
  - [New Caesar](https://github.com/malif-py/CTF/tree/main/picoCTF/022%20New%20Caesar)
+ - [Mini RSA](https://github.com/malif-py/CTF/tree/main/picoCTF/023%20Mini%20RSA)
 ### Forensics
  -  [information](https://github.com/malif-py/CTF/tree/main/picoCTF/003%20Information)
  -  [Matryoshka doll](https://github.com/malif-py/CTF/tree/main/picoCTF/010%20Matryoshka%20doll)
