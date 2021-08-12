@@ -1,0 +1,23 @@
+Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Fri Aug 13 00:54:20 2021
+Invocation: foremost Kalendar-Arkavdemik-2020-2021.pdf 
+Output directory: /home/alif/Documents/Git/CTF/CTFHaha/SIV/output
+Configuration file: /etc/foremost.conf
+------------------------------------------------------------------
+File: Kalendar-Arkavdemik-2020-2021.pdf
+Start: Fri Aug 13 00:54:20 2021
+Length: 40 KB (41251 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+0:	00000000.pdf 	      40 KB 	          0 	 
+Finish: Fri Aug 13 00:54:20 2021
+
+1 FILES EXTRACTED
+	
+pdf:= 1
+------------------------------------------------------------------
+
+Foremost finished at Fri Aug 13 00:54:20 2021
